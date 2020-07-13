@@ -1,6 +1,6 @@
 ---
 
-title: Meow that changed my life 😸  🐱 
+title: "Meow that changed my life 😸  🐱 "
 
 date: 2020-07-13
 
