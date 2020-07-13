@@ -1,13 +1,19 @@
-title: Your awesome title
-author: GitHub User
+---
+
+title: "Meow the cat and me 😸  🐱 "
+
+date: 2020-07-13
+
+---
+theme: minima
+title: Meow meow 
+author: Rasa Salakij
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Feel free to browse documents related to cats I met. I believe cats are highly intelliget but also very ignorant. Share your experience with me. I would love to hear your story too!
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: yaorasa # DO NOT include the @ character, or else the build will fail!
+github_username:  yaorasa # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
