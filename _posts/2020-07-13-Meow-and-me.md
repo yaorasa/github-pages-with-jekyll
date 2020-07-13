@@ -1,4 +1,5 @@
 ---
+layout: post
 
 title: "Meow that changed my life 😸  🐱 "
 
